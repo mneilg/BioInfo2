@@ -1,0 +1,39 @@
+name: vina
+channels:
+  - defaults
+dependencies:
+  - swig
+  - libboost
+  - sphinx
+  - jupyterlab
+  - python=3.11
+  - numpy
+  - sphinx_rtd_theme
+  - pymol-open-source
+  - meeko
+  - boost-cpp
+  - pdbfixer
+  - requests
+  - pandas
+  - autodock-vina
+  - vina
+  - dimorphite-dl
+  - pathlib
+  - rich
+  - biopython
+  - pyyaml
+  - loguru
+  - pytest
+  - mypy
+  - seaborn
+  - matplotlib-base
+  - typer
+  - isort
+  - openbabel
+  - ambertools
+  - psutil
+  - black
+  - scipy
+  - parmed
+  - pdb2pqr
+prefix: /home/amicon19/miniconda3/envs/vina
