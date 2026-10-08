@@ -1,2 +1,2 @@
-# BioInfo2
-Coursera Bioinformatic Methods II
+# Bioinformatics tools
+Backup of recurring tools
